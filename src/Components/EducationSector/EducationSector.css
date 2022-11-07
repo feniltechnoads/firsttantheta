@@ -1,0 +1,4 @@
+.nova-readmore:hover span{
+    margin-left: 10px;
+    transition: 0.5s ease-in-out;
+}
